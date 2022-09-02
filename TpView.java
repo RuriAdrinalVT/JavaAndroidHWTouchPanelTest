@@ -1,5 +1,5 @@
 package RuriAdrinal.com
-
+//this is for TP test later push into priv-app application of android layer
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
